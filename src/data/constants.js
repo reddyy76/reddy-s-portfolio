@@ -260,5 +260,26 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 4,
+    title: "To-do Website",
+    date: "Nov 2024 - Dec 2024",
+    description:
+      "This project involves designing and developing a responsive and feature-rich website using React.js, a popular JavaScript library for building user interfaces. The project setup and development are powered by Vite, a next-generation front-end tooling that offers fast builds and an efficient development environment.",
+    image:
+      "https://i.ibb.co/W2fxL9w/todo.jpg",
+    tags: ["React.js", "Node.js", "Vite"],
+    category: "web app",
+    github: "https://github.com/reddyy76/assignment-quadb-tech-main",
+    webapp: "https://quadtodoapplication.netlify.app/",
+    member: [
+      {
+        name: "N.Rahul Reddy",
+        img: "https://firebasestorage.googleapis.com/v0/b/caramel-theory-369916.appspot.com/o/Passport_Img.jpg?alt=media&token=5e3b47fc-9790-47ef-a3fc-f730a5ff6aeb",
+        linkedin: "https://www.linkedin.com/in/rahul-reddy-31371a252/",
+        github: "https://github.com/reddyy76",
+      },
+    ],
+  },
 ];
 
