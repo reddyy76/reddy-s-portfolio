@@ -11,9 +11,10 @@ const Navbar = () => {
     <Nav>
       <NavbarContainer>
         <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "black", marginBottom: '20;', cursor: 'pointer' }}>
-            <c size="3rem" /> <Span>Reddy's Portfolio</Span>
-          </a>
+          <div style={{ display: "flex", alignItems: "center", color: "black", marginBottom: '20px', cursor: 'pointer' }}>
+    {/* Replace <c /> with a valid icon or remove */}
+            <Span>Reddy's Portfolio</Span>
+          </div>
         </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
