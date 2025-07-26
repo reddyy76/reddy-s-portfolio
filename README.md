@@ -2,7 +2,7 @@
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 VISIT LIVE WEBSITE HERE : 
-https://reddysportfolio.netlify.app/
+portfolio-reddy.netlify.app
 
 ## Table of Contents
 - [Introduction](#introduction)
